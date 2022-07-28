@@ -1,6 +1,5 @@
-- #ABOUT ME
 
  - Ohayo ,I´m Jeslyn Rafaela!
- - I like watching anime <3
- - 15years old
- - No hype here s2
+ - Meu email pra contato é jeslyn.silva@escola.pr.gov.br
+ - Estou interessada em aprender a progamar novas linguagens 
+ - Estou aprendendo a progamar recentemente a linguagem de JavaScript & Scratch
